@@ -1,4 +1,4 @@
-<h1 align="center">Heyyo, I'm Levitt! 👋</h1>
+<h1 align="center">Hello, I'm David Karanja 👋</h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/levittlee"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
@@ -18,11 +18,6 @@
 - 🤝 I’m looking for help with **Infosec projects**
 
 - 📫 How to reach me **karanjadavid614@gmail.com**
-
-### 🔥 Latest Blog Posts
-- 🚀 Building Microservices with NestJS and Kafka
-- 🧪 Testing FastAPI Applications Like a Pro
-- 🐳 Dockerized PostgreSQL for Local Dev
 
 ---
 
@@ -64,14 +59,11 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=levittlee&show_icons=true&theme=tokyonight&hide_border=true" width="49.5%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=levittlee&theme=tokyonight&hide_border=true" width="49.5%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=levittc17&show_icons=true&locale=en&theme=rose_pine" width="48%" alt="levittc17 GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=levittc17&show_icons=true&locale=en&layout=compact&theme=rose_pine" width="36.5%" alt="levittc17 Top Languages" />
+</div>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levittlee&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
 
 ---
 
@@ -79,7 +71,7 @@
 
 - 🔭 I’m currently building cloud-native backend services using microservice patterns.
 - 🌱 Always learning more about event-driven architecture and system design.
-- 🐧 Arch Linux user & terminal enthusiast.
+- 🐧 I use Arch Linux btw, and Neovim
 
 ---
 
