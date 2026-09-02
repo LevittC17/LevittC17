@@ -85,13 +85,7 @@
 ## &nbsp;📊 GitHub Stats
 
 <div align="center">
-
-  <!-- ⚠️ Replace  github-readme-stats-git-master-levittc17s-projects.vercel.app below with your own deployed instance URL -->
-  <!-- Setup guide: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own -->
-  <img src="https:// github-readme-stats-git-master-levittc17s-projects.vercel.app.vercel.app/api?username=levittc17&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&card_width=420" height="165" alt="GitHub Stats"/>
-  &nbsp;
-  <img src="https:// github-readme-stats-git-master-levittc17s-projects.vercel.app.vercel.app/api/top-langs/?username=levittc17&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&card_width=320" height="165" alt="Top Languages"/>
-
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?LevittC17=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
 </div>
 
 <div align="center">
