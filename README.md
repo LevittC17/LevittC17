@@ -82,15 +82,9 @@
 
 <br/>
 
-## &nbsp;📊 GitHub Stats
+## &nbsp;
 
-<div align="center">
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?LevittC17=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=levittc17&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=700" alt="GitHub Streak"/>
-</div>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d&show_owner=true&theme=algolia)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d)
 
 <br/>
 
