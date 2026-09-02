@@ -25,8 +25,7 @@
 > Fambanasi — Kenya's Destination Management Platform
 
 🌱 &nbsp;**Currently Learning**
-> Elixir &nbsp;·&nbsp; Event-Driven Architecture &nbsp;·&nbsp; System Design
-
+> Elixir &nbsp;·&nbsp; Erlang
 🤝 &nbsp;**Open to Collaborate On**
 > Health &nbsp;·&nbsp; Travel &nbsp;·&nbsp; Agriculture &nbsp;·&nbsp; Logistics
 
