@@ -15,34 +15,36 @@
 
 <br/>
 
-## &nbsp;`$ whoami`
+## &nbsp;👨‍💻 About Me
 
-```typescript
-const david: Engineer = {
-  name:     "David Karanja",
-  role:     "Backend Engineer",
-  location: "Nairobi, Kenya 🇰🇪",
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-  building: "Fambanasi — Kenya's Destination Management Platform",
-  learning: ["Elixir", "Event-Driven Architecture", "System Design"],
-  openTo:   ["Health", "Travel", "Agriculture", "Logistics"],
+🏗️ &nbsp;**Currently Building**
+> Fambanasi — Kenya's Destination Management Platform
 
-  stack: {
-    languages:  ["TypeScript", "Python", "JavaScript", "Elixir"],
-    frameworks: ["NestJS", "FastAPI", "Express"],
-    databases:  ["PostgreSQL", "MongoDB", "Elasticsearch"],
-    messaging:  ["Apache Kafka"],
-    infra:      ["Docker", "Google Cloud"],
-  },
+🌱 &nbsp;**Currently Learning**
+> Elixir &nbsp;·&nbsp; Event-Driven Architecture &nbsp;·&nbsp; System Design
 
-  setup: {
-    os:     "Arch Linux",
-    editor: "Neovim",
-  },
+🤝 &nbsp;**Open to Collaborate On**
+> Health &nbsp;·&nbsp; Travel &nbsp;·&nbsp; Agriculture &nbsp;·&nbsp; Logistics
 
-  quote: "Consistency over intensity. Build daily.",
-};
-```
+</td>
+<td width="50%" valign="top">
+
+📍 &nbsp;**Based In**
+> Nairobi, Kenya 🇰🇪
+
+🐧 &nbsp;**Daily Setup**
+> Arch Linux &nbsp;+&nbsp; Neovim
+
+💬 &nbsp;**Motto**
+> *"Consistency over intensity. Build daily."*
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -83,23 +85,22 @@ const david: Engineer = {
 ## &nbsp;📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=levittc17&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levittc17&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true" width="41%" alt="Top Languages"/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=levittc17&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&card_width=420" height="165" alt="GitHub Stats"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levittc17&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&card_width=320" height="165" alt="Top Languages"/>
+
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=levittc17&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="70%" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=levittc17&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph"/>
+  <img src="https://streak-stats.demolab.com?user=levittc17&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=700" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
-## &nbsp;🎧 Now Playing
-
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=jz6qa8lxt38svsh5cxt7zmmpf&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d1117&interchange=true&bar_color=6e40c9&bar_color_cover=true)](https://open.spotify.com/user/jz6qa8lxt38svsh5cxt7zmmpf)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=levittc17&theme=tokyo-night&hide_border=true&area=true&hide_title=false" width="95%" alt="Contribution Graph"/>
+</div>
 
 <br/>
 
