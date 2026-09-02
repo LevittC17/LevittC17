@@ -11,11 +11,9 @@
 
 - 🔭 I’m currently working on **A Destination Management Solution**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Elixir**
 
-- 👯 I’m looking to collaborate on **either health, travel, real estate or logistics software-driven solutions**
-
-- 🤝 I’m looking for help with **Infosec projects**
+- 👯 I’m looking to collaborate on either **Health, Travel, Agriculture or Logistics software-driven solutions**
 
 - 📫 How to reach me **karanjadavid614@gmail.com**
 
