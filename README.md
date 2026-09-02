@@ -82,9 +82,21 @@
 
 <br/>
 
-## &nbsp;
+## &nbsp;📊 GitHub Stats
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d&show_owner=true&theme=algolia)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d)
+<div align="center">
+
+  <!-- ⚠️ Replace YOUR-VERCEL-URL below with your own deployed instance URL -->
+  <!-- Setup guide: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own -->
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=LevittC17&rank_icon=github&include_all_commits=true&theme=github_dark)](https://github-stats-extended.vercel.app/api?username=LevittC17&rank_icon=github&include_all_commits=true&theme=github_dark)
+  &nbsp;
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=LevittC17&layout=donut-vertical&langs_count=5&theme=date_night)](https://github-stats-extended.vercel.app/api/top-langs?username=LevittC17&layout=donut-vertical&langs_count=5&theme=date_night)
+
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=levittc17&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=700" alt="GitHub Streak"/>
+</div>
 
 <br/>
 
